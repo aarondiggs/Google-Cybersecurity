@@ -19,4 +19,4 @@
 * Vulnerability scanning
 * Cloud Computing
 # Certificate:
-![Branching](https://github.com/aarondiggs/Google-Cybersecurity-Professional-V2/blob/main/images/Google.png)
+![Branching](https://github.com/aarondiggs/Google-Cybersecurity/blob/main/images/Google.png)
